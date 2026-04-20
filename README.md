@@ -13,7 +13,7 @@
 ## 💗 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?beachhhouses=beachhouses&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff69b4" />
+  <img src="https://github-readme-stats.vercel.app/api?username=beachhouses&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff69b4" />
 </p>
 
 ---
@@ -21,7 +21,7 @@
 ## 🎀 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?beachhouses=beachhouses&layout=compact&theme=radical&title_color=ff69b4" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beachhouses&layout=compact&theme=radical&title_color=ff69b4" />
 </p>
 
 ---
@@ -37,7 +37,7 @@
 ## 🎮 Pacman Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/beachhouses/beachhouses/output/pacman-contribution-graph.svg" />
+  <img src="https://raw.githubusercontent.com/username/beachhouses/output/pacman-contribution-graph.svg" />
 </p>
 
 ---
