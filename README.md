@@ -34,8 +34,6 @@
 
 ---
 
-## 🎮 Pacman Contribution Graph
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/username/beachhouses/output/pacman-contribution-graph.svg" />
 </p>
