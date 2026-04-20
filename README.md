@@ -10,7 +10,7 @@
 
 ---
 
-## 💗 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=beachhouses&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff69b4" />
@@ -18,7 +18,7 @@
 
 ---
 
-## 🎀 Top Languages
+## Top Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beachhouses&layout=compact&theme=radical&title_color=ff69b4" />
@@ -26,7 +26,7 @@
 
 ---
 
-## 🔥 Streak
+## Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=beachhouses&theme=radical&ring=ff69b4&fire=ff69b4" />
