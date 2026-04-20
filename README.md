@@ -34,9 +34,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/username/beachhouses/output/pacman-contribution-graph.svg" />
-</p>
+![Pacman Contribution Graph](https://raw.githubusercontent.com/beachhouses/beachhouses/output/pacman-contribution-graph.svg)
 
 ---
 
