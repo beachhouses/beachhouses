@@ -9,7 +9,6 @@ jobs:
 build:
 runs-on: ubuntu-latest
 
-```
 steps:
   - name: generate pacman
     uses: Platane/snk@v3
@@ -25,4 +24,3 @@ steps:
       build_dir: output
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
