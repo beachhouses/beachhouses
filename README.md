@@ -1,43 +1,39 @@
-<h1 align="center">💖 Hi, I'm peiii 💖</h1>
+<div align="center">
 
-<p align="center">
-  ✨ just a girl in her coding era ✨ <br>
-</p>
+# 💖 Hi, I'm Peiii 💖
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=ff69b4&center=true&vCenter=true&lines=Welcome+to+my+GitHub!;I+love+coding+%F0%9F%92%96;Let's+build+something+cool!">
-</p>
+✨ *just a girl in her coding era* ✨
 
----
+Welcome to my profile! Let's connect and build cool things together. 🚀
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beachhouses&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff69b4" />
-</p>
+</div>
 
 ---
 
-## Top Languages
+### 📊 GitHub Stats & Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beachhouses&layout=compact&theme=radical&title_color=ff69b4" />
-</p>
-
----
-
-## Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=beachhouses&theme=radical&ring=ff69b4&fire=ff69b4" />
-</p>
+<div align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=beachhouses&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beachhouses&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</div>
 
 ---
 
-![Pacman Contribution Graph](https://raw.githubusercontent.com/beachhouses/beachhouses/output/pacman-contribution-graph.svg)
+### 🔥 GitHub Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beachhouses&theme=tokyonight&hide_border=true&background=0d1117" />
+</div>
 
 ---
 
-<p align="center">
-  💌 thanks for visiting 💌
-</p>
+### 🕹️ Contribution Game
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=beachhouses&theme=react-dark&hide_border=true" />
+</div>
+
+<div align="center">
+  <br>
+  <p>💖 thanks for visiting 💖</p>
+</div>
