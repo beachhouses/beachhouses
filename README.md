@@ -111,18 +111,6 @@ Growing through projects, experiments, and new challenges.
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/beachhouses">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=beachhouses&repo=plnetwork&theme=radical&hide_border=true" />
-</a>
-
-</div>
-
----
-
 ## 💌 Let's Connect!
 
 <div align="center">
