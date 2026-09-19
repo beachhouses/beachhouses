@@ -18,81 +18,56 @@
 
 ## 💗 About Me
 
-```javascript
-const peiii = {
-    name: "Syarifah Chadijah",
-    nickname: "Peiii",
-    role: "IT Student & Software Developer",
-    education: "Information Technology @ Universitas Sumatera Utara",
+<div align="center">
 
-    focus: [
-        "Web Development",
-        "UI/UX Design",
-        "Software Development"
-    ],
+<table>
+<tr>
+<td width="50%" valign="top">
 
-    techStack: {
-        languages: [
-            "Java",
-            "Python",
-            "C++",
-            "JavaScript",
-            "PHP"
-        ],
+### 👩🏻‍💻 Who Am I?
 
-        frontend: [
-            "HTML",
-            "CSS",
-            "JavaScript",
-            "Laravel"
-        ],
+I'm **Syarifah Chadijah**, but you can call me **Peiii**! 💗
 
-        backend: [
-            "Laravel",
-            "FastAPI",
-            "MySQL"
-        ],
+I'm an **Information Technology student at Universitas Sumatera Utara** with a growing passion for building digital experiences that are both functional and visually engaging.
 
-        mobile: [
-            "Android",
-            "Jetpack Compose"
-        ],
+My interests lie at the intersection of **software development, web development, and UI/UX design**.
 
-        design: [
-            "Figma",
-            "Canva"
-        ],
+<br>
 
-        tools: [
-            "Git",
-            "GitHub",
-            "VS Code",
-            "Android Studio"
-        ]
-    },
+✨ **Build. Break. Learn. Repeat.**
 
-    currentlyLearning: [
-        "Android Development",
-        "Jetpack Compose",
-        "Software Engineering",
-        "UI/UX Design",
-        "IoT"
-    ],
+☕ Turning caffeine into code.
 
-    interests: [
-        "Creative Digital Solutions",
-        "Clean & User-Friendly Interfaces",
-        "Technology for Social Impact"
-    ],
+</td>
 
-    mindset: "Build. Break. Learn. Repeat. ✨",
-    funFact: "Turning caffeine into code ☕💻"
-};
-```
+<td width="50%" valign="top">
+
+### 🌷 What I Do
+
+🎨 **UI/UX Design**
+Creating clean, intuitive, and user-friendly interfaces.
+
+💻 **Web Development**
+Building responsive websites and web-based systems.
+
+⚙️ **Software Development**
+Exploring different technologies to turn ideas into functional solutions.
+
+📱 **Mobile Development**
+Currently exploring Android development with Jetpack Compose.
+
+🌱 **Always Learning**
+Growing through projects, experiments, and new challenges.
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 🎀 Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -100,15 +75,21 @@ const peiii = {
 
 <img src="https://skillicons.dev/icons?i=java,python,cpp,js,php" />
 
+<br><br>
+
 ### 🌐 Web Development
 
 <img src="https://skillicons.dev/icons?i=html,css,laravel,fastapi,mysql" />
+
+<br><br>
 
 ### 📱 Mobile & Design
 
 <img src="https://skillicons.dev/icons?i=androidstudio,figma,canva" />
 
-### 🛠️ Tools
+<br><br>
+
+### 🧰 Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
@@ -120,33 +101,23 @@ const peiii = {
 
 <div align="center">
 
-`Android Development`  • 
-`Jetpack Compose`  • 
-`UI/UX Design`  • 
-`Software Development`  • 
-`IoT`
+<img src="https://img.shields.io/badge/Android%20Development-000000?style=for-the-badge&logo=android&logoColor=3DDC84">
+<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white">
+<img src="https://img.shields.io/badge/UI%2FUX%20Design-FF69B4?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/Software%20Development-6C63FF?style=for-the-badge&logo=code&logoColor=white">
+<img src="https://img.shields.io/badge/IoT-333333?style=for-the-badge&logo=arduino&logoColor=white">
 
 </div>
 
 ---
 
-## 💻 GitHub Stats
+## 🚀 Featured Projects
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=beachhouses&show_icons=true&theme=radical&hide_border=true&border_radius=12" height="170">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beachhouses&layout=compact&theme=radical&hide_border=true&border_radius=12" height="170">
-
-</div>
-
----
-
-## 🐍 Contribution Journey
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/beachhouses/beachhouses/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+<a href="https://github.com/beachhouses">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=beachhouses&repo=plnetwork&theme=radical&hide_border=true" />
+</a>
 
 </div>
 
